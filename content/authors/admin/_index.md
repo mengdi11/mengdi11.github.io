@@ -65,7 +65,6 @@ education:
       - lPersonality Psychology, Experimental Psychology
       - Educational Psychology, Psychological History
       - Social Psychology, Psychometrics etc
-      
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
