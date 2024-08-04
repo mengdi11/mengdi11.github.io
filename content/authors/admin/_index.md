@@ -66,28 +66,36 @@ education:
       - Educational Psychology, Psychological History
       - Social Psychology, Psychometrics etc
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Research Assistant
+    company_name: Grief and Healing Lab of Psychology Shenzhen University
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-01-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Analysed a sample of self-report survey data from bereaved people in the Netherlands using network analysis
+      - Assisted in handling paper submissions and writing within the group
+  - position: Intern Therapist
+    company_name: Student Mental Health Education Centre of China University of Geosciences
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-09-01
+    date_end: 2024-06-31
+    summary: |
+      Responsibilities include:
+      - Provided supportive psychological counseling to students of China University of Geosciences, and attended weekly group supervision
+      - Conducted psychological measurement and crisis assessment of students
+  - position: Intern Therapist
+    company_name: Wuhan Mental Health Center
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-02-01
+    date_end: 2023-09-31
+    summary: |
+      Responsibilities include:
+      - Observed and assisted with individual and group therapy in the psychiatric clinic
+      - Received training in active listening and crisis intervention in mental health hotline
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -97,21 +105,25 @@ skills:
       - name: MINI
         description: 'The Mini-International Neuropsychiatric Interview'
         percent: 80
-        icon: code-bracket
       - name: SCID-5-CV
         description: 'Structured Clinical Interview for DSM-5 Disorders - Clinician Version'
         percent: 100
-        icon: chart-bar
+      - name: Psychodynamically Orientated Psychotherapy
+        description: 'Psychodynamically Orientated Psychotherapy'
+        percent: 100
+      - name: CBT
+        description: 'Cognitive Behavioral Therapy'
+        percent: 100
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: POP
-        description: 'Psychodynamically Orientated Psychotherapy'
+      - name: Music
+        description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: CBT
-        description: 'Cognitive Behavioral Therapy'
+        icon: music
+      - name: Raise cats
+        description: ''
         percent: 100
         icon: cat
 languages:
@@ -125,7 +137,7 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
+  - title: National Scholarship, China , RUC(¥20000)
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
     awarder: Coursera
