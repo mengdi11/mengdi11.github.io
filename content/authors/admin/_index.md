@@ -46,7 +46,7 @@ education:
   - area: Master of psychology
     institution: China University of Geosciences, Wuhan
     date_start: 2021-09-01
-    date_end: 2024-06-31
+    date_end: 2024-07-31
     summary: |
       Courses included:
       - Advances in Psychological Research, Cognitive Neuroscience
@@ -58,7 +58,7 @@ education:
   - area: Bachelor of psychology
     institution: Xinyang Normal University
     date_start: 2016-09-01
-    date_end: 2020-06-31
+    date_end: 2020-07-31
     summary: |
       Courses included:
       - General Psychology, Developmental Psychology
