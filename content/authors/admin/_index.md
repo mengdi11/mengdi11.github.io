@@ -48,7 +48,7 @@ education:
     date_start: 2021-09-01
     date_end: 2024-07-31
     summary: |
-       Courses included:
+      Courses included:
       - Advances in Psychological Research, Cognitive Neuroscience
       - Advanced Psychological Statistics and Psychometrics, Clinical Supervision Theory and Practice
       - Theory and Practice of Group Counseling, Research Methods in Psychology etc
