@@ -45,9 +45,10 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Mental health services
+  - Network analysis
+  - Bereavement grief3
+  - Meta-analysis
 
 education:
   - area: PhD Artificial Intelligence
@@ -181,4 +182,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi there, I am Mengdi Yuan. Currently, I am working as a research assistant in the Grief and Healing Lab at Shenzhen University. Before this I completed my Master's Degree in China University of Geosciences( Wuhan), supervised by Prof. Baoliang Zhong, and completed my Bachelor’s Degree in Xinyang Normal University. My research interest includes Trauma, Grief and Suicide.
