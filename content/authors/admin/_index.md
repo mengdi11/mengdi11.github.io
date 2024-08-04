@@ -97,11 +97,11 @@ skills:
       - name: MINI
         description: 'The Mini-International Neuropsychiatric Interview'
         percent: 80
-        # icon: code-bracket
+        icon: code-bracket
       - name: SCID-5-CV
         description: 'Structured Clinical Interview for DSM-5 Disorders - Clinician Version'
         percent: 100
-        # icon: chart-bar
+        icon: chart-bar
   - name: Intervention skills
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -109,12 +109,11 @@ skills:
       - name: POP
         description: 'Psychodynamically Orientated Psychotherapy'
         percent: 60
-        # icon: person-simple-walk
+        icon: person-simple-walk
       - name: CBT
         description: 'Cognitive Behavioral Therapy'
         percent: 100
-        # icon: cat
-
+        icon: cat
 languages:
   - name: English
     percent: 75
