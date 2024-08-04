@@ -91,7 +91,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2022-02-01
-    date_end: 2023-09-31
+    date_end: 2023-09-01
     summary: |
       Responsibilities include:
       - Observed and assisted with individual and group therapy in the psychiatric clinic
