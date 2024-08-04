@@ -81,7 +81,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2022-09-01
-    date_end: 2024-06-31
+    date_end: 2024-07-31
     summary: |
       Responsibilities include:
       - Provided supportive psychological counseling to students of China University of Geosciences, and attended weekly group supervision
@@ -142,8 +142,7 @@ awards:
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: National Postgraduate Academic Scholarship, China University of Geosciences, RUC(¥8000)
+  - title: 'National Postgraduate Academic Scholarship, China University of Geosciences, RUC(¥8000)'
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
     awarder: edX
