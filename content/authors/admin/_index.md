@@ -121,7 +121,6 @@ skills:
       - name: Music
         description: ''
         percent: 60
-        icon: music
       - name: Raise cats
         description: ''
         percent: 100
