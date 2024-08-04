@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: 袁梦迪
 
 # Name pronunciation (optional)
 name_pronunciation: Yuan Meng Di
@@ -47,7 +47,7 @@ profiles:
 interests:
   - Mental health services
   - Network analysis
-  - Bereavement grief3
+  - Bereavement grief
   - Meta-analysis
 
 education:
