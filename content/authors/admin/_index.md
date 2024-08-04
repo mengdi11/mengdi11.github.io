@@ -46,7 +46,7 @@ education:
   - area: Master of psychology
     institution: China University of Geosciences, Wuhan
     date_start: 2021-09-01
-    date_end: 2024-07-31
+    date_end: 2024-06-31
     summary: |
       Courses included:
       - Advances in Psychological Research, Cognitive Neuroscience
@@ -58,7 +58,7 @@ education:
   - area: Bachelor of psychology
     institution: Xinyang Normal University
     date_start: 2016-09-01
-    date_end: 2020-07-31
+    date_end: 2020-06-31
     summary: |
       Courses included:
       - General Psychology, Developmental Psychology
@@ -92,36 +92,28 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Interview skills
     items:
-      - name: Python
-        description: ''
+      - name: MINI
+        description: 'The Mini-International Neuropsychiatric Interview'
         percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
+        # icon: code-bracket
+      - name: SCID-5-CV
+        description: 'Structured Clinical Interview for DSM-5 Disorders - Clinician Version'
         percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
+        # icon: chart-bar
+  - name: Intervention skills
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
+      - name: POP
+        description: 'Psychodynamically Orientated Psychotherapy'
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
+        # icon: person-simple-walk
+      - name: CBT
+        description: 'Cognitive Behavioral Therapy'
         percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+        # icon: cat
 
 languages:
   - name: English
