@@ -139,13 +139,12 @@ awards:
   - title: National Scholarship, China , RUC(¥20000)
     url: 
     date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+    awarder: nation
     summary: |
   - title: 'National Postgraduate Academic Scholarship, China University of Geosciences, RUC(¥8000)'
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    url: 
     date: '2023-07-01'
-    awarder: edX
+    awarder: China University of Geosciences
     summary: |
   - title: 'Excellent Volunteers of China University of Geosciences Rural Revitalization Summer Camp'
     url: 
