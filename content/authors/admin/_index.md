@@ -108,7 +108,7 @@ skills:
       - name: SCID-5-CV
         description: 'Structured Clinical Interview for DSM-5 Disorders - Clinician Version'
         percent: 100
-      - name: Psychodynamically Orientated Psychotherapy
+      - name: CORL
         description: 'Psychodynamically Orientated Psychotherapy'
         percent: 100
       - name: CBT
@@ -125,7 +125,6 @@ skills:
       - name: Raise cats
         description: ''
         percent: 100
-        icon: cat
 languages:
   - name: English
     percent: 75
