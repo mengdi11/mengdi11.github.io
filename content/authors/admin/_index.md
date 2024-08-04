@@ -33,16 +33,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:yuanmengdi01@163.com'
     label: E-mail Me
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
 
 interests:
   - Mental health services
@@ -51,37 +43,29 @@ interests:
   - Meta-analysis
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Master of psychology
+    institution: China University of Geosciences, Wuhan
+    date_start: 2021-09-01
+    date_end: 2024-07-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+       Courses included:
+      - Advances in Psychological Research, Cognitive Neuroscience
+      - Advanced Psychological Statistics and Psychometrics, Clinical Supervision Theory and Practice
+      - Theory and Practice of Group Counseling, Research Methods in Psychology etc
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+  - area: Bachelor of psychology
+    institution: Xinyang Normal University
+    date_start: 2016-09-01
+    date_end: 2020-07-31
     summary: |
-      GPA: 3.8/4.0
-
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      - General Psychology, Developmental Psychology
+      - lPersonality Psychology, Experimental Psychology
+      - Educational Psychology, Psychological History
+      - Social Psychology, Psychometrics etc
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -142,11 +126,9 @@ skills:
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Chinese
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
