@@ -32,14 +32,16 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 CONFERENCES'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        **Yuan, M. D.**, Zhong, B. L.(2023.09) Prevalence of prolonged grief disorder and its symptoms in bereaved persons in China: a systematic review and meta-analysis. Symposium on Psychological Trauma and Crisis Intervention. Wuhan,Hubei.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        **Yuan, M. D.**, Zhong, B. L., Dang W. M. (2023.07). Prevalence of workplace sexual harassment and associated factors against nurses in Chinese medicine hospitals. Hubei Sexology Association. Tianmen, Hubei.
         
-        Please reach out to collaborate 😃
+        **Yuan, M. D**., Zhong, B. L. (2022. 11). Prevalence of depressive symptoms among Chinese Shidu parents: A systemic review and meta-analysis. The 33rd Student Science and Technology Paper Presentation of China University of Geosciences. Wuhan, Hubei.
+
+        **Yuan, M. D.**, Wang, Z. Q., Fei, L., & Zhong, B. L. (2022. 07). Prevalence of prolonged grief disorder and its symptoms in Chinese parents who lost their only child: A systematic review and meta-analysis. Chinese Society of Neuroscience &Psychiatry. Xi'an, Shaanxi.
     design:
       columns: '1'
   - block: collection
