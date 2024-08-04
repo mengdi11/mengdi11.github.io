@@ -92,7 +92,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Interview skills
+  - name: Technical Skills
     items:
       - name: MINI
         description: 'The Mini-International Neuropsychiatric Interview'
@@ -102,7 +102,7 @@ skills:
         description: 'Structured Clinical Interview for DSM-5 Disorders - Clinician Version'
         percent: 100
         icon: chart-bar
-  - name: Intervention skills
+  - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
