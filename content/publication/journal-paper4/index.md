@@ -31,7 +31,7 @@ featured: true
 # links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: content/publication/journal-paper4/ZEPT_15_2342739.pdf
+url_pdf: uploads/ZEPT_15_2342739.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

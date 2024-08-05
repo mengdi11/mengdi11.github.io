@@ -33,7 +33,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: content/publication/journal-paper2/fpubh-10-1016160.pdf
+url_pdf: uploads/fpubh-10-1016160.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
