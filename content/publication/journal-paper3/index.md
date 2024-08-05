@@ -16,7 +16,7 @@ publishDate: "2023-01-01T00:00:00Z"
 publication_types: ["journal-paper"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Psychology Research and Behavior Management"
 publication_short: ""
 
 abstract: This study characterizes the psychological network of loneliness symptoms among Chinese residents during the initial wave of the COVID-19 outbreak, identifying key central symptoms and bridge symptoms that could inform targeted interventions aimed at reducing loneliness in this population.

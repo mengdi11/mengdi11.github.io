@@ -16,7 +16,7 @@ publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["journal-paper"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Frontiers in Public Health"
 publication_short: ""
 
 abstract: This meta-analysis examines the prevalence of prolonged grief disorder (PGD) among Chinese Shidu parents, highlighting elevated risks among mothers, those with religious beliefs, and parents whose only child died from accidents, suggesting targeted grief counseling interventions for these vulnerable groups.
