@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 CONFERENCES'
+      title: '📚 My Research'
       subtitle: ''
       text: |-
         I am committed to exploring the impact of serious illness, death, and bereavement on people's physical and mental well-being, and how to help people heal and grow from it. In the future I hope to use a range of qualitative and quantitative methods to comprehensively examine the impact of these dilemmas on individuals.
@@ -59,45 +59,17 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  # - block: collection
-  #   id: talks
-  #   content:
-  #     title: Recent & Upcoming Talks
-  #     filters:
-  #       folders:
-  #         - event
-  #   design:
-  #     view: article-grid
-  #     columns: 1
-  # - block: collection
-  #   id: news
-  #   content:
-  #     title: Recent News
-  #     subtitle: ''
-  #     text: ''
-  #     # Page type to display. E.g. post, talk, publication...
-  #     page_type: post
-  #     # Choose how many pages you would like to display (0 = all pages)
-  #     count: 5
-  #     # Filter on criteria
-  #     filters:
-  #       author: ""
-  #       category: ""
-  #       tag: ""
-  #       exclude_featured: false
-  #       exclude_future: false
-  #       exclude_past: false
-  #       publication_type: ""
-  #     # Choose how many pages you would like to offset by
-  #     offset: 0
-  #     # Page order: descending (desc) or ascending (asc) date.
-  #     order: desc
-  #   design:
-  #     # Choose a layout view
-  #     view: date-title-summary
-  #     # Reduce spacing
-  #     spacing:
-  #       padding: [0, 0, 0, 0]
+  - block: markdown
+    content:
+      title: '📝 CONFERENCES'
+      subtitle: ''
+      text: |-
+        - **Yuan, M. D.**, Zhong, B. L.(2023.09) Prevalence of prolonged grief disorder and its symptoms in bereaved persons in China: a systematic review and meta-analysis. Symposium on Psychological Trauma and Crisis Intervention. Wuhan, Hubei.
+        - **Yuan, M. D.**, Zhong, B. L., Dang W. M. (2023.07). Prevalence of workplace sexual harassment and associated factors against nurses in Chinese medicine hospitals. Hubei Sexology Association. Tianmen, Hubei.
+        - **Yuan, M. D.**, Zhong, B. L. (2022. 11). Prevalence of depressive symptoms among Chinese Shidu parents: A systemic review and meta-analysis. The 33rd Student Science and Technology Paper Presentation of China University of Geosciences. Wuhan, Hubei.
+        - **Yuan, M. D.**, Wang, Z. Q., Fei, L., & Zhong, B. L. (2022. 07). Prevalence of prolonged grief disorder and its symptoms in Chinese parents who lost their only child: A systematic review and meta-analysis. Chinese Society of Neuroscience & Psychiatry. Xi'an, Shaanxi.
+    design:
+      columns: '1'
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:

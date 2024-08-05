@@ -46,7 +46,6 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
