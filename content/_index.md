@@ -38,17 +38,6 @@ sections:
         I am committed to exploring the impact of serious illness, death, and bereavement on people's physical and mental well-being, and how to help people heal and grow from it. In the future I hope to use a range of qualitative and quantitative methods to comprehensively examine the impact of these dilemmas on individuals.
     design:
       columns: '1'
-  # - block: collection
-  #   id: papers
-  #   content:
-  #     title: Featured Publications
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
-  #   design:
-  #     view: article-grid
-  #     columns: 2
   - block: collection
     content:
       title: Recent Publications
