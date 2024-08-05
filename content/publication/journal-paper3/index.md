@@ -52,6 +52,13 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: 
 ---
 
+Purpose: Social distancing measures implemented during the COVID-19 pandemic have contributed to increased levels of loneliness, but the specific interactions between loneliness symptoms in the context of the pandemic remain unknown. This study characterized the psychological network of loneliness symptoms in residents during the initial wave of COVID-19 outbreak in China.
+
+Patients and methods: The study recruited 8472 Chinese residents (61.5% women, aged 33.0±10.6 years) through online snowball sampling. The Six-item De Jong Gierveld Loneliness Scale (DJGLS) was used to measure loneliness symptoms. Central symptoms of and bridge symptoms between emotional and social loneliness subscales were identified based on centrality and bridge centrality indices, respectively. Network stability was examined using the case-dropping procedures.
+
+Results: The nodes in the loneliness network were separated into two groups, corresponding to the social and emotional loneliness domains of the DJGLS. The strongest direction association was between "no reliable people" and "no trustworthy people" (edge weight=0.546). "No trustworthy people" has the highest node strength (1.047) in the loneliness network, followed by "emptiness sense" (0.767) and "no reliable people" (0.749). "Feeling of rejection" (1.672) and "no close people" (0.403) showed the first and second highest bridge strengths, respectively. Both the stability and accuracy tests supported robustness of the whole network.
+
+Conclusion: Interventions targeting central symptoms "no trustworthy people" and "emptiness sense" and central bridge symptom "feeling of rejection" may be effective for alleviating the overall level of loneliness in pandemic-affected Chinese residents.
