@@ -1,46 +1,39 @@
 ---
-title: "An example journal article"
+title: "Prevalence of prolonged grief disorder and its symptoms in bereaved persons in China: a systematic review and meta-analysis"
 authors:
 - admin
-- Robert Ford
+- Liu, J. F.
+- Zhong, B. L.
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- ""
+- ""
+date: "2024-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["paper-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "General Psychiatry"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Background:The prevalence of prolonged grief disorder (PGD) and its symptoms among the bereaved population in China vary considerably.Aims:This meta-analysis aims to estimate the prevalence of PGD and its symptoms among bereaved individuals in China.Methods:We conducted a literature search in major Chinese and English databases from their inception to 4 October 2023, for cross-sectional studies on the prevalence of PGD or its symptoms in bereaved Chinese individuals. The risk of bias of the included studies and certainty of the evidence were assessed using the Joanna Briggs Institute Critical Appraisal Checklist for Studies Reporting Prevalence Data ('JBI checklist') and the Grading of Recommendations, Assessment, Development and Evaluations (GRADE), respectively. The 'metaprop' package in R V.4.1.2 was used to synthesise the prevalence.Results:A total of 28 studies involving 10 994 bereaved individuals were included in the analysis, with JBI checklist scores between 3 and 7. The combined prevalence (95% confidence interval) of PGD and its symptoms was 8.9% (4.2% to 17.6%) and 32.4% (18.2% to 50.8%), respectively. PGD and its symptoms were most prevalent among those who had lost their only child (22.7%) and those bereaved by earthquakes (80.4%), respectively. The GRADE system assigned a very low certainty level to the evidence for the pooled prevalence of PGD and its symptoms.Conclusions:The pooled prevalence of PGD and its symptoms indicate a potential high need for grief counselling services among bereaved individuals in China. This need is particularly pronounced in those who have lost their only child and those bereaved due to earthquakes. Further methodologically rigorous studies are needed to provide more accurate prevalence estimates.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This meta-analysis examines the prevalence of prolonged grief disorder (PGD) and its symptoms among bereaved individuals in China, synthesizing data from 28 studies. Findings indicate a combined prevalence of PGD and its symptoms at 8.9% (95% CI: 4.2% to 17.6%) and 32.4% (95% CI: 18.2% to 50.8%), respectively. High prevalence rates were observed among those who lost their only child (22.7%) and those affected by earthquakes (80.4%). However, the evidence quality, assessed using GRADE, remains very low, underscoring the need for more rigorous studies to improve accuracy in prevalence estimates.
 
 tags:
-- Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
