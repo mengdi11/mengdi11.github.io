@@ -6,7 +6,7 @@ title: 'Efficacy and acceptability of music therapy for post-traumatic stress di
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Ma, Y. M.
-  - **Yuan, M. D.**
+  - admin
   - Zhong, B. L.
 
 # Author notes (optional)
@@ -47,12 +47,6 @@ featured: true
 
 url_pdf: ''
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
