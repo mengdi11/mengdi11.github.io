@@ -31,7 +31,7 @@ featured: true
 # links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: ./prbm-16-3767.pdf
+url_pdf: /prbm-16-3767.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: './gpsych-2023-101216.pdf'
+url_pdf: '/gpsych-2023-101216.pdf'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
