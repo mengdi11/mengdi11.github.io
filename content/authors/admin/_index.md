@@ -102,26 +102,26 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: MINI
-        description: 'The Mini-International Neuropsychiatric Interview'
+      - name: R Studio 
+        description: ''
         percent: 80
-      - name: SCID-5-CV
-        description: 'Structured Clinical Interview for DSM-5 Disorders - Clinician Version'
+      - name: SPSS
+        description: ''
         percent: 100
-      - name: CORL
-        description: 'Psychodynamically Orientated Psychotherapy'
-        percent: 100
-      - name: CBT
-        description: 'Cognitive Behavioral Therapy'
+      - name: STATA
+        description: ''
         percent: 100
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Music
+      - name: HIKING
         description: ''
         percent: 60
-      - name: Raise cats
+      - name: CATS
+        description: ''
+        percent: 100
+      - name: PHOTOGRAPHY
         description: ''
         percent: 100
 languages:
