@@ -29,8 +29,10 @@ publication_types: ['paper-conference']
 publication: 
 publication_short: 
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
+abstract: Background:Music therapy is increasingly examined in randomized controlled trials (RCTs) and shows potential in treating post-traumatic stress disorder (PTSD).Objective:This systematic review and meta-analysis critically evaluates the current clinical evidence supporting the efficacy and acceptability of music therapy for PTSD.</br>
+- Method:RCTs comparing music therapy in addition to care as usual (CAU) versus either CAU alone or CAU combined with standard psychotherapy/pharmacotherapy for PTSD were retrieved from major English - and Chinese-language databases. Standardized mean differences (SMDs) for post-treatment PTSD symptom scores and risk differences (RDs) for retention rates upon treatment completion were calculated to assess the efficacy and acceptability of music therapy, respectively. The Cochrane risk of bias (RoB) tool 2.0 and the Grading of Recommendations, Assessment, Development, and Evaluations (GRADE) were used to assess the RoB of included studies and certainty of the evidence, respectively.
+- Results:Nine studies, incorporating 527 PTSD patients, were included, all with high RoB. The post-treatment PTSD symptom scores were significantly lower in the music therapy group than the inactive control group (SMD = -1.64, P < .001), but comparable between the music therapy group and the active control group (SMD = -0.28, P = .330). The retention rates did not differ significantly between the music therapy group and both control groups (RD = 0.03, P = .769; RD = 0.16, P = .829). The GRADE rated certainty level of evidence as low.
+- Conclusions:Although meta-analytic findings suggest that music therapy is effective in reducing post-traumatic symptoms in individuals with PTSD, with its therapeutic effect comparable to that of standard psychotherapy, the low level of certainty limits its generalizability. More methodologically stringent studies are warranted to strengthen the clinical evidence for the efficacy and acceptability of music therapy for PTSD.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -60,14 +62,14 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+projects: []
+  - 
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ''
 ---
 
