@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 CONFERENCES'
       subtitle: ''
       text: |-
         I am committed to exploring the impact of serious illness, death, and bereavement on people's physical and mental well-being, and how to help people heal and grow from it. In the future I hope to use a range of qualitative and quantitative methods to comprehensively examine the impact of these dilemmas on individuals.
