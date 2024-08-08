@@ -105,12 +105,15 @@ skills:
       - name: R Studio 
         description: ''
         percent: 80
+        icon: code-bracket
       - name: SPSS
         description: ''
         percent: 100
+        icon: chart-bar
       - name: STATA
         description: ''
         percent: 100
+        icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -118,12 +121,15 @@ skills:
       - name: HIKING
         description: ''
         percent: 60
+        icon: person-simple-walk
       - name: CATS
         description: ''
         percent: 100
+        icon: cat
       - name: PHOTOGRAPHY
         description: ''
         percent: 100
+        icon: camera
 languages:
   - name: English
     percent: 75

@@ -69,7 +69,9 @@ projects:
 slides: 
 ---
 
-Background: Music therapy is increasingly examined in randomized controlled trials (RCTs) and shows potential in treating post-traumatic stress disorder (PTSD).Objective: This systematic review and meta-analysis critically evaluates the current clinical evidence supporting the efficacy and acceptability of music therapy for PTSD.
+Background: Music therapy is increasingly examined in randomized controlled trials (RCTs) and shows potential in treating post-traumatic stress disorder (PTSD).
+
+Objective: This systematic review and meta-analysis critically evaluates the current clinical evidence supporting the efficacy and acceptability of music therapy for PTSD.
 
 Method: RCTs comparing music therapy in addition to care as usual (CAU) versus either CAU alone or CAU combined with standard psychotherapy/pharmacotherapy for PTSD were retrieved from major English - and Chinese-language databases. Standardized mean differences (SMDs) for post-treatment PTSD symptom scores and risk differences (RDs) for retention rates upon treatment completion were calculated to assess the efficacy and acceptability of music therapy, respectively. The Cochrane risk of bias (RoB) tool 2.0 and the Grading of Recommendations, Assessment, Development, and Evaluations (GRADE) were used to assess the RoB of included studies and certainty of the evidence, respectively.
 
