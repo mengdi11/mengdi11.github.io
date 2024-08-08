@@ -1,5 +1,5 @@
 ---
-title: "Prevalence of prolonged grief disorder and its symptoms in bereaved persons in China: a systematic review and meta-analysis"
+title: "Prevalence of prolonged grief disorder and its symptoms among bereaved individuals in China: a systematic review and meta-analysis "
 authors:
 - admin
 - Liu, J. F.
@@ -7,7 +7,7 @@ authors:
 author_notes:
 - ""
 - ""
-date: "2024-09-01T00:00:00Z"
+date: "2024-05-05T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

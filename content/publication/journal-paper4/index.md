@@ -4,7 +4,7 @@ authors:
 - admin
 - Wang, Z. Q.
 - Fei, L.& Zhong, B. L.
-date: "2022-04-07T00:00:00Z"
+date: "2022-09-275T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -31,7 +31,7 @@ featured: true
 # links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: uploads/ZEPT_15_2342739.pdf
+url_pdf: uploads/gpsych-2023-101216.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

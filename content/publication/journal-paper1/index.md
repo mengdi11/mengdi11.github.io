@@ -14,7 +14,7 @@ author_notes:
   # - 'Equal contribution'
   # - 'Equal contribution'
 
-date: '2024-09-01T00:00:00Z'
+date: '2024-04-22T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'uploads/gpsych-2023-101216.pdf'
+url_pdf: 'uploads/ZEPT_15_2342739.pdf'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
